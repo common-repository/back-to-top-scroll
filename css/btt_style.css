@@ -1,0 +1,10 @@
+
+#back-to-top {
+     bottom: 90px;  
+    position: absolute;
+    right: 40px;
+}
+
+.back-to-top_wrapper {
+    position: relative;
+}
